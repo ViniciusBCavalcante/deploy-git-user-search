@@ -85,26 +85,6 @@ Quanto à tabela de repositórios, os filtros por padrão são do tipo "começa 
 
 Caso você desejar obter mais detalhes a respeito de um repositório especifico, você pode clicar na linha correspondente ao repositório que irá abrir um quadro adicional (modal).
 
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-## 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
 ## ✒️ Autor
 
 - [**Vinícius Barbosa Cavalcante**](https://github.com/ViniciusBCavalcante) - Desenvolvedor
